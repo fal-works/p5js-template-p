@@ -1,19 +1,32 @@
-# p5.js template 0
+# p5.js Template P
 
-Template project for [p5.js](https://p5js.org/) sketches using [Visual Studio Code](https://code.visualstudio.com/) and [Prettier](https://prettier.io/).
+Template project for creating [p5.js](https://p5js.org/) sketches using the following tools:
+
+- Code editor: [Visual Studio Code](https://code.visualstudio.com/)
+- Other tools: [Prettier](https://prettier.io/)
+
 
 ## Usage
 
-First install the two below if not yet installed:
+1. Install the two below if not yet installed:
 
-- [Visual Studio Code](https://code.visualstudio.com/)
-- [Node.js](https://nodejs.org/)
+   - [Visual Studio Code](https://code.visualstudio.com/)
+   - [Node.js](https://nodejs.org/)
 
-Then install the VS Code extension:
+2. Create your project folder by copying this template, then open it with VS Code.
 
-- [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)  
-(from CLI: `code --install-extension esbenp.prettier-vscode`)
+3. Install the VS Code extension:
 
-Now Prettier works automatically every time you save your code.
+   - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)  
+   (from CLI: `code --install-extension esbenp.prettier-vscode`)
 
-Feel free to edit `script.js` and open `index.html` to see the result.
+    Now Prettier works automatically every time you save your code.
+
+4. Feel free to edit `script.js`.
+
+5. Open `index.html` to see the result.
+
+
+## If you're curious
+
+The VS Code extension for Prettier includes its own bundled version of Prettier (see also the Readme of the extension), which is why this template works without having any npm dependencies.
