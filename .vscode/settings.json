@@ -1,6 +1,8 @@
 {
   "editor.formatOnSave": true,
+
   "[javascript]": {
+    "editor.rulers": [80],
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "[html]": {
