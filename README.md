@@ -10,23 +10,35 @@ See also [other templates](https://fal-works.github.io/p5js-templates/).
 
 ## Usage
 
-1. Install the two below if not yet installed:
+### Prepare your environment
 
-   - [Visual Studio Code](https://code.visualstudio.com/)
+In general, the below only need to be done once.
+
+1. Install the software as follows:
+
+   - [Visual Studio Code](https://code.visualstudio.com/) (VS Code in short)
    - [Node.js](https://nodejs.org/)
 
-2. Create your project folder by copying this template, then open it with VS Code.
+2. Install the following VS Code extension:
 
-3. Install the VS Code extension:
+    - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)  
+    (from CLI: `code --install-extension esbenp.prettier-vscode`)
 
-   - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)  
-   (from CLI: `code --install-extension esbenp.prettier-vscode`)
+### Prepare to create your sketch
 
-    Now Prettier works automatically every time you save your code.
+Do the below each time you start to create a new sketch using this template.
 
-4. Feel free to edit `script.js`.
+1. Create your sketch folder by copying this template.
 
-5. Open `index.html` to see the result.
+2. Enable the VS Code extension for Prettier (see above), if disabled.
+
+Now Prettier works automatically each time you save your code.  
+
+### Create/edit your sketch
+
+1. Feel free to edit `script.js`.
+
+2. Open `index.html` to see the result.
 
 
 ## If you're curious
