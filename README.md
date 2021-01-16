@@ -1,5 +1,9 @@
 # p5.js Template P
 
+*Other languages (wiki):* [[ ja ]](https://github.com/fal-works/p5js-template-p/wiki/Readme-ja)
+
+## About
+
 Template project for creating [p5.js](https://p5js.org/) sketches using the following tools:
 
 - Code editor: [Visual Studio Code](https://code.visualstudio.com/)
@@ -24,9 +28,9 @@ In general, the below only need to be done once.
     - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)  
     (from CLI: `code --install-extension esbenp.prettier-vscode`)
 
-### Prepare to create your sketch
+### Create your sketch
 
-Do the below each time you start to create a new sketch using this template.
+Do the below each time you create a new sketch using this template.
 
 1. Create your sketch folder by copying this template.
 
@@ -34,7 +38,7 @@ Do the below each time you start to create a new sketch using this template.
 
 Now Prettier works automatically each time you save your code.  
 
-### Create/edit your sketch
+### Edit your sketch
 
 1. Feel free to edit `script.js`.
 
